@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aa0c896-6f5c-4b8c-a953-98d227d66e59" name="Changes" comment="creation of the basic frame" />
+    <list default="true" id="8aa0c896-6f5c-4b8c-a953-98d227d66e59" name="Changes" comment="creation of the basic frame">
+      <change beforePath="$PROJECT_DIR$/.git copy/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/push-to-checkout.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/sendemail-validate.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/1d/8ab018eaf11d9b3a4a90e7818ace373dfbb380" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/21/eac0a01d9be7f950614e4151b239cbef28c846" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/26/d33521af10bcc7fd8cea344038eaaeb78d0ef5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/47/962b8fdb4845881ad35cc81d03562cedaeea00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/4e/a72a911af2d782f20b992e808276bb838718d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/5a/1add20923fd94db82df9adc084f75cfa9e326b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/5f/f6309b7199129c1afe4f4ec1906e640bec48c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/8a/8fb2282df5b8f7263470a5a2dc0e196f35f35f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/94/a25f7f4cb416c083d265558da75d457237d671" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/c1/dd12f17644411d6e840bd5a10c6ecda0175f18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/c5/1d629b46303f5cb524e4848f7ec3d9ccdd7ca4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/e0/77837e9471b7c6ef2057b2f2e2bccf8be84c0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/e7/1876e7877daa47289b6c0f2f413c4396d599a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/f6/5a9bae41f39d7ce4899f29a79f0d7a68c5523a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.git copy/objects/f8/8aef9915e20b2ec395d7f4c1f8b5d7c90b500b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/projectgroup1/DAO/databaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/projectgroup1/DAO/databaseConnection.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765625766600</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creation of the basic frame">
+      <option name="closed" value="true" />
+      <created>1765630998325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765630998326</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
