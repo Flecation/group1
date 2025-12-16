@@ -1,4 +1,4 @@
-package projectgroup1.DAO;
+package IPPSystem.DAO;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
@@ -31,7 +31,6 @@ public class databaseConnection {
 
 
 
-    public static void testing(){}
 
 
 }
