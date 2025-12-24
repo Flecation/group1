@@ -2,6 +2,7 @@
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
@@ -10,7 +11,7 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.layout.VBox?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+<BorderPane minHeight="0.0" minWidth="0.0" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
    <top>
       <VBox prefHeight="114.0" prefWidth="1280.0" BorderPane.alignment="CENTER">
          <children>
@@ -57,13 +58,8 @@
                         </Button>
                      </children>
                   </HBox>
-                  <HBox prefHeight="35.0" prefWidth="49.0">
+                  <HBox prefHeight="47.0" prefWidth="974.0">
                      <children>
-                        <Button mnemonicParsing="false" prefHeight="38.0" prefWidth="49.0" style="-fx-background-color: transparent;">
-                           <HBox.margin>
-                              <Insets top="5.0" />
-                           </HBox.margin>
-                        </Button>
                         <HBox prefHeight="34.0" prefWidth="181.0">
                            <HBox.margin>
                               <Insets left="900.0" />
@@ -99,6 +95,9 @@
                            </children>
                         </HBox>
                      </children>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
                   </HBox>
                </children>
             </HBox>
@@ -136,42 +135,44 @@
                               </ImageView>
                            </graphic>
                         </Button>
-                        <HBox prefHeight="41.0" prefWidth="1078.0" HBox.hgrow="ALWAYS">
+                        <HBox prefHeight="41.0" prefWidth="1078.0">
                            <children>
-                              <StackPane prefHeight="41.0" prefWidth="744.0" HBox.hgrow="ALWAYS">
+                              <StackPane prefHeight="41.0" prefWidth="744.0">
                                  <children>
-                                    <TextField prefHeight="39.0" prefWidth="672.0" />
-                                    <Button mnemonicParsing="false" style="-fx-background-color: transparent;" text="This PC">
-                                       <StackPane.margin>
-                                          <Insets right="670.0" />
-                                       </StackPane.margin>
-                                    </Button>
-                                    <Button mnemonicParsing="false" style="-fx-background-color: transparent;" text="&gt;">
-                                       <StackPane.margin>
-                                          <Insets right="580.0" />
-                                       </StackPane.margin>
-                                    </Button>
-                                    <Button mnemonicParsing="false" style="-fx-background-color: transparent;" text="DATA(D:)">
-                                       <StackPane.margin>
-                                          <Insets right="480.0" />
-                                       </StackPane.margin>
-                                    </Button>
+                                    <HBox prefHeight="37.0" prefWidth="720.0" style="-fx-background-color: white; -fx-background-radius: 5; -fx-border-image-insets: grey;">
+                                       <children>
+                                          <HBox prefHeight="41.0" prefWidth="125.0">
+                                             <children>
+                                                <Button mnemonicParsing="false" prefHeight="41.0" prefWidth="98.0" style="-fx-background-color: transparent;" text="This PC" />
+                                                <Button mnemonicParsing="false" prefHeight="41.0" prefWidth="46.0" style="-fx-background-color: transparent;" text="&gt;" />
+                                             </children>
+                                          </HBox>
+                                          <HBox prefHeight="43.0" prefWidth="93.0">
+                                             <children>
+                                                <Button mnemonicParsing="false" prefHeight="41.0" prefWidth="128.0" style="-fx-background-color: transparent;" text="DATA(D:" HBox.hgrow="ALWAYS" />
+                                             </children>
+                                          </HBox>
+                                       </children>
+                                    </HBox>
                                  </children>
                               </StackPane>
-                              <HBox prefHeight="41.0" prefWidth="340.0" HBox.hgrow="ALWAYS">
+                              <HBox prefHeight="41.0" prefWidth="340.0">
                                  <children>
-                                    <StackPane prefHeight="41.0" prefWidth="350.0" HBox.hgrow="ALWAYS">
+                                    <StackPane prefHeight="41.0" prefWidth="350.0">
                                        <children>
                                           <HBox prefHeight="100.0" prefWidth="200.0">
                                              <children>
-                                                <TextField prefHeight="35.0" prefWidth="345.0" promptText="Search">
+                                                <TextField minHeight="0.0" minWidth="0.0" prefHeight="40.0" prefWidth="291.0" promptText="Search" HBox.hgrow="ALWAYS">
                                                    <padding>
                                                       <Insets left="10.0" />
                                                    </padding>
+                                                   <HBox.margin>
+                                                      <Insets left="5.0" />
+                                                   </HBox.margin>
                                                 </TextField>
-                                                <Button mnemonicParsing="false" prefHeight="29.0" prefWidth="65.0">
+                                                <Button mnemonicParsing="false" prefHeight="39.0" prefWidth="54.0" HBox.hgrow="ALWAYS">
                                                    <graphic>
-                                                      <ImageView fitHeight="23.0" fitWidth="28.0" pickOnBounds="true" preserveRatio="true">
+                                                      <ImageView fitHeight="57.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
                                                          <image>
                                                             <Image url="@../../../../../../Downloads/loupe.png" />
                                                          </image>
@@ -194,6 +195,10 @@
       </VBox>
    </top>
    <center>
-      <StackPane prefHeight="150.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+      <StackPane minHeight="0.0" minWidth="0.0" prefHeight="150.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Label" textFill="#b8b8b8" />
+         </children>
+      </StackPane>
    </center>
 </BorderPane>
