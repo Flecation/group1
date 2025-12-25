@@ -8,16 +8,13 @@ import javafx.scene.layout.StackPane;
 
 public class basePaneController {
     @FXML
-    Button exitBtn,restoreBtn,minimizeBtn,pageAddBtn,reloadBtn,forwardBtn,backBtn,searchBtn;
+    Button exitBtn,restoreBtn,minimizeBtn,pageAddBtn;
 
     @FXML
     StackPane loadPane;
 
     @FXML
-    HBox directoryBar,tapBar;
-
-    @FXML
-    TextField searchTxt;
+    HBox tapBar;
 
     @FXML
     private void initialize(){
