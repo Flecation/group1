@@ -5,12 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aa0c896-6f5c-4b8c-a953-98d227d66e59" name="Changes" comment="creation of the basic frame">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/backward (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/loupe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/maximize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/minus (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/refresh (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/reject.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/group1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/CSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/TB.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/TB.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -57,14 +77,17 @@
   "keyToString": {
     "Application.HelloApplication.executor": "Run",
     "Application.Launcher.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHELLCHECK.PATH": "C:\\Users\\PC\\AppData\\Roaming\\JetBrains\\IdeaIC2025.2\\plugins\\Shell Script\\shellcheck.exe",
-    "git-widget-placeholder": "Merging Latt-Latt-Nanda",
+    "git-widget-placeholder": "Latt-Latt-Nanda",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/group1",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -72,6 +95,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\IPP-System\src\main\resources\icons" />
+      <recent name="C:\Users\hp\IdeaProjects\IPP-System\src\main\resources\View\FXML_Photos" />
       <recent name="D:\group1\src\main\resources\view" />
       <recent name="D:\group1\src\main\resources" />
     </key>
