@@ -8,7 +8,7 @@ public class linkButtonController {
     Button textBtn,IconBtn;
 
     @FXML
-    public void initialize(){
+    private void initialize(){
 
     }
 
