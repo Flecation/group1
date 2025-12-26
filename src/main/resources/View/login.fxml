@@ -29,7 +29,7 @@
                   <StackPane maxHeight="80.0" minHeight="80.0" prefHeight="150.0" prefWidth="200.0">
                      <children>
                         <TextField fx:id="userNameTxt" maxHeight="40.0" maxWidth="250.0" minHeight="40.0" minWidth="250.0" />
-                        <Label fx:id="userNameLbl" text="UserName" StackPane.alignment="CENTER_LEFT">
+                        <Label fx:id="userNameLbl" text="Username" StackPane.alignment="CENTER_LEFT">
                            <StackPane.margin>
                               <Insets left="20.0" />
                            </StackPane.margin>
