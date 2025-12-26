@@ -99,5 +99,8 @@ public class userDatabase {
         return info;
     }
 
+    public static user loginUser(String userName,String userPassword){
+
+    }
 
 }

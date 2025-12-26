@@ -24,13 +24,13 @@ create table skills (
 );
 
 create table projectTypes (
-	projectTypeId int primary key auto_increment,
-    projectTypeName varchar(255)
+	typeId int primary key auto_increment,
+    typeName varchar(255)
 );
 
 create table projectLevels (
-	projectLevelId int primary key auto_increment,
-    projectLevelName varchar(255)
+	levelId int primary key auto_increment,
+    levelName varchar(255)
 );
 
 create table workItems (
